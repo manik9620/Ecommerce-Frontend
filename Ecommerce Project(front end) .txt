@@ -1,0 +1,8 @@
+Ecommerce Project(front end) :
+Modules:
+1. Login/signup/register Page
+2. Add to cart
+3. Search bar
+4. Categories
+5. Filter
+6. Dark mode
